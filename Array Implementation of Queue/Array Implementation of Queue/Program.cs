@@ -22,42 +22,48 @@ namespace Array_Implementation_of_Queue
                 Console.WriteLine("4:Print Data from queue");
                 Console.WriteLine("5:Print queue length");
                 int input = Convert.ToInt32(Console.ReadLine());
-                switch (input)
+                if (input < 0 || input > 5)
                 {
-                    case 1:
-                        Console.WriteLine("Please Enter the data to Enque");
-                        int data = Convert.ToInt32(Console.ReadLine());
-                        queue.Enque(data);
-                        break;
+                    Console.WriteLine("Please Select Proper Input");
+                }
+                else
+                {
+                    switch (input)
+                    {
+                        case 1:
+                            Console.WriteLine("Please Enter the data to Enque");
+                            int data = Convert.ToInt32(Console.ReadLine());
+                            queue.Enque(data);
+                            break;
 
-                    case 2:
-                        int deque = queue.Deque();
-                        if (deque != -1)
-                        {
-                            Console.WriteLine("{0} is dequed from Client", deque);
+                        case 2:
+                            int deque = queue.Deque();
+                            if (deque != -1)
+                            {
+                                Console.WriteLine("{0} is dequed from Client", deque);
+                                Console.WriteLine();
+                            }
+                            break;
+
+                        case 3:
+                            int peak = queue.Peek();
+                            if (peak != -1)
+                            {
+                                Console.WriteLine("{0} is the next value to deque", peak);
+                                Console.WriteLine();
+                            }
+                            break;
+
+                        case 4:
+                            queue.Print();
+                            break;
+
+                        case 5:
+                            int count = queue.QueueCount();
+                            Console.WriteLine(count);
                             Console.WriteLine();
-                        }
-                        break;
-
-                    case 3:
-                        int peak = queue.Peek();
-                        if (peak != -1)
-                        {
-                            Console.WriteLine("{0} is the next value to deque", peak);
-                            Console.WriteLine();
-                        }
-                        break;
-
-                    case 4:
-                        queue.Print();
-                        break;
-
-                    case 5:
-                        int count = queue.QueueCount();
-                        Console.WriteLine(count);
-                        Console.WriteLine();
-                        break;
-
+                            break;
+                    }
                 }
             }
         }
@@ -113,8 +119,10 @@ namespace Array_Implementation_of_Queue
                     Console.WriteLine("Queue Empty!!!");
                     return dequeval;
                 }
-                if (front == Queue_Size)
+                if (front == rear)
                 {
+                    front = rear = -1;
+                    count = 0;
                     Console.WriteLine("Queue Empty");
                     return dequeval;
                 }

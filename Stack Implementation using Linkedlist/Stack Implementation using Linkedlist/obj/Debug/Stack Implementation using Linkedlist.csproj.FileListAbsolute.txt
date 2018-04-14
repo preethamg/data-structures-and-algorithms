@@ -1,0 +1,7 @@
+E:\Projects\Git\Stack Implementation using Linkedlist\Stack Implementation using Linkedlist\bin\Debug\Stack Implementation using Linkedlist.exe.config
+E:\Projects\Git\Stack Implementation using Linkedlist\Stack Implementation using Linkedlist\bin\Debug\Stack Implementation using Linkedlist.exe
+E:\Projects\Git\Stack Implementation using Linkedlist\Stack Implementation using Linkedlist\bin\Debug\Stack Implementation using Linkedlist.pdb
+E:\Projects\Git\Stack Implementation using Linkedlist\Stack Implementation using Linkedlist\obj\Debug\Stack Implementation using Linkedlist.csprojResolveAssemblyReference.cache
+E:\Projects\Git\Stack Implementation using Linkedlist\Stack Implementation using Linkedlist\obj\Debug\Stack Implementation using Linkedlist.csproj.CoreCompileInputs.cache
+E:\Projects\Git\Stack Implementation using Linkedlist\Stack Implementation using Linkedlist\obj\Debug\Stack Implementation using Linkedlist.exe
+E:\Projects\Git\Stack Implementation using Linkedlist\Stack Implementation using Linkedlist\obj\Debug\Stack Implementation using Linkedlist.pdb

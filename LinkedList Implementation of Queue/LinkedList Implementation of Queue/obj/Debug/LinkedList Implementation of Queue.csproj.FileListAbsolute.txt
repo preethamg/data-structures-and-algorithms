@@ -1,0 +1,7 @@
+E:\Projects\Git\data-structures-and-algorithms\LinkedList Implementation of Queue\LinkedList Implementation of Queue\bin\Debug\LinkedList Implementation of Queue.exe.config
+E:\Projects\Git\data-structures-and-algorithms\LinkedList Implementation of Queue\LinkedList Implementation of Queue\bin\Debug\LinkedList Implementation of Queue.exe
+E:\Projects\Git\data-structures-and-algorithms\LinkedList Implementation of Queue\LinkedList Implementation of Queue\bin\Debug\LinkedList Implementation of Queue.pdb
+E:\Projects\Git\data-structures-and-algorithms\LinkedList Implementation of Queue\LinkedList Implementation of Queue\obj\Debug\LinkedList Implementation of Queue.csprojResolveAssemblyReference.cache
+E:\Projects\Git\data-structures-and-algorithms\LinkedList Implementation of Queue\LinkedList Implementation of Queue\obj\Debug\LinkedList Implementation of Queue.csproj.CoreCompileInputs.cache
+E:\Projects\Git\data-structures-and-algorithms\LinkedList Implementation of Queue\LinkedList Implementation of Queue\obj\Debug\LinkedList Implementation of Queue.exe
+E:\Projects\Git\data-structures-and-algorithms\LinkedList Implementation of Queue\LinkedList Implementation of Queue\obj\Debug\LinkedList Implementation of Queue.pdb

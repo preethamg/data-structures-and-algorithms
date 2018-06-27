@@ -1,0 +1,7 @@
+E:\Projects\Git\data-structures-and-algorithms\Binary Search\Binary Search\bin\Debug\Binary Search.exe.config
+E:\Projects\Git\data-structures-and-algorithms\Binary Search\Binary Search\bin\Debug\Binary Search.exe
+E:\Projects\Git\data-structures-and-algorithms\Binary Search\Binary Search\bin\Debug\Binary Search.pdb
+E:\Projects\Git\data-structures-and-algorithms\Binary Search\Binary Search\obj\Debug\Binary Search.csprojResolveAssemblyReference.cache
+E:\Projects\Git\data-structures-and-algorithms\Binary Search\Binary Search\obj\Debug\Binary Search.csproj.CoreCompileInputs.cache
+E:\Projects\Git\data-structures-and-algorithms\Binary Search\Binary Search\obj\Debug\Binary Search.exe
+E:\Projects\Git\data-structures-and-algorithms\Binary Search\Binary Search\obj\Debug\Binary Search.pdb

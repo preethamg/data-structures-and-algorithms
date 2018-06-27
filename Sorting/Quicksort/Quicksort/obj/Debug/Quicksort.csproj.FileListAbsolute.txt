@@ -1,0 +1,7 @@
+E:\Projects\Git\data-structures-and-algorithms\Sorting\Quicksort\Quicksort\bin\Debug\Quicksort.exe.config
+E:\Projects\Git\data-structures-and-algorithms\Sorting\Quicksort\Quicksort\bin\Debug\Quicksort.exe
+E:\Projects\Git\data-structures-and-algorithms\Sorting\Quicksort\Quicksort\bin\Debug\Quicksort.pdb
+E:\Projects\Git\data-structures-and-algorithms\Sorting\Quicksort\Quicksort\obj\Debug\Quicksort.csprojResolveAssemblyReference.cache
+E:\Projects\Git\data-structures-and-algorithms\Sorting\Quicksort\Quicksort\obj\Debug\Quicksort.csproj.CoreCompileInputs.cache
+E:\Projects\Git\data-structures-and-algorithms\Sorting\Quicksort\Quicksort\obj\Debug\Quicksort.exe
+E:\Projects\Git\data-structures-and-algorithms\Sorting\Quicksort\Quicksort\obj\Debug\Quicksort.pdb
